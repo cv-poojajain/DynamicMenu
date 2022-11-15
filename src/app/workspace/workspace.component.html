@@ -1,0 +1,7 @@
+
+
+<h2><button type="button" *ngIf="isSubmenuSelected" (click)="back()">BACK</button></h2>
+<h3>{{array.name}}</h3>
+<ul *ngIf="array">
+    <li *ngFor="let n of array.menuItems" (click)="selectMenu(n.name)">{{n.name}}</li>
+</ul>

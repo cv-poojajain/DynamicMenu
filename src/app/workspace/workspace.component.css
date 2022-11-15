@@ -1,0 +1,17 @@
+ul{
+    list-style: none;
+    font-weight: bold;
+    font-size: 16px;
+}
+ul li{
+    margin-bottom: 10px;
+    cursor: pointer;
+    background: yellow;
+    width: 100px;
+    text-align: center;
+    padding: 4px;
+    border-radius: 2px;
+}
+h3{
+    padding-left: 40px;
+}

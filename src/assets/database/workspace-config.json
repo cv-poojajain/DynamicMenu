@@ -1,0 +1,1172 @@
+[
+    {
+    "name": "Workspace",
+    "menuItems": [
+        {
+            "name": "Group",
+            "route": "/Group"
+        },
+        {
+            "name": "Objective",
+            "route": "/Objective"
+        },
+        {
+            "name": "Goal",
+            "route": "/Goal"
+        },
+        {
+            "name": "Project",
+            "route": "/Project"
+        },
+        {
+            "name": "Ticket",
+            "route": "/Ticket"
+        },
+        {
+            "name": "Task",
+            "route": "/Task"
+        },
+        {
+            "name": "Meeting",
+            "route": "/Meeting"
+        },
+        {
+            "name": "List",
+            "route": "/List"
+        },
+        {
+            "name" : "Checklist",
+            "route" : "/Checklist"
+        },
+        {
+            "name" : "Note",
+            "route" : "/Note"
+        },
+        {
+            "name" : "Scheduler",
+            "route" : "/Scheduler"
+        },
+        {
+            "name" : "Kanban",
+            "route" : "/Kanban"
+        },
+        {
+            "name" : "Research",
+            "route" : "/Research"
+        },
+        {
+            "name" : "Flow",
+            "route" : "/Flow"
+        },
+        {
+            "name" : "Charts",
+            "menuItems" : [
+                {
+                    "name" : "Mindmap",
+                    "route": "/Mindmap"
+                },
+                {
+                    "name" : "Network",
+                    "route": "/Network"
+                },
+                {
+                    "name" : "Flow",
+                    "route": "/Flow"
+                },
+                {
+                    "name" : "Decision",
+                    "route": "/Decision"
+                },
+                {
+                    "name" : "Richtext",
+                    "route": "/Richtext"
+                },
+                {
+                    "name" : "Spreadsheet",
+                    "route": "/Spreadsheet"
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "Group",
+    "menuItems": [
+        {
+            "name": "Goal",
+            "route": "/Goal"
+        },
+        {
+            "name": "Project",
+            "route": "/Project"
+        },
+        {
+            "name": "Ticket",
+            "route": "/Ticket"
+        },
+        {
+            "name": "Task",
+            "route": "/Task"
+        },
+        {
+            "name": "Meeting",
+            "route": "/Meeting"
+        },
+        {
+            "name": "List",
+            "route": "/List"
+        },
+        {
+            "name": "Checklist",
+            "route": "/Checklist"
+        },
+        {
+            "name": "Note",
+            "route": "/Note"
+        },
+        {
+            "name" : "Event",
+            "route" : "/Event"
+        },
+        {
+            "name" : "Scheduler",
+            "route" : "/Scheduler"
+        },
+        {
+            "name" : "Kanban",
+            "route" : "/Kanban"
+        },
+        {
+            "name" : "Research",
+            "route" : "/Research"
+        },
+        {
+            "name" : "Flow",
+            "route" : "/Flow"
+        },
+        {
+            "name" : "Charts",
+            "menuItems" : [
+                {
+                    "name" : "Mindmap",
+                    "route": "/Mindmap"
+                },
+                {
+                    "name" : "Network",
+                    "route": "/Network"
+                },
+                {
+                    "name" : "Flow",
+                    "route": "/Flow"
+                },
+                {
+                    "name" : "Decision",
+                    "route": "/Decision"
+                },
+                {
+                    "name" : "Richtext",
+                    "route": "/Richtext"
+                },
+                {
+                    "name" : "Spreadsheet",
+                    "route": "/Spreadsheet"
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "Objective",
+    "menuItems": [
+        {
+            "name": "Project",
+            "route": "/Project"
+        },
+        {
+            "name": "Ticket",
+            "route": "/Ticket"
+        },
+        {
+            "name": "Task",
+            "route": "/Task"
+        },
+        {
+            "name": "Meeting",
+            "route": "/Meeting"
+        },
+        {
+            "name": "List",
+            "route": "/List"
+        },
+        {
+            "name": "Checklist",
+            "route": "/Checklist"
+        },
+        {
+            "name": "Note",
+            "route": "/Note"
+        },
+        {
+            "name" : "Event",
+            "route" : "/Event"
+        },
+        {
+            "name" : "Scheduler",
+            "route" : "/Scheduler"
+        },
+        {
+            "name" : "Kanban",
+            "route" : "/Kanban"
+        },
+        {
+            "name" : "Research",
+            "route" : "/Research"
+        },
+        {
+            "name" : "Flow",
+            "route" : "/Flow"
+        },
+        {
+            "name" : "Charts",
+            "menuItems" : [
+                {
+                    "name" : "Mindmap",
+                    "route": "/Mindmap"
+                },
+                {
+                    "name" : "Network",
+                    "route": "/Network"
+                },
+                {
+                    "name" : "Flow",
+                    "route": "/Flow"
+                },
+                {
+                    "name" : "Decision",
+                    "route": "/Decision"
+                },
+                {
+                    "name" : "Richtext",
+                    "route": "/Richtext"
+                },
+                {
+                    "name" : "Spreadsheet",
+                    "route": "/Spreadsheet"
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "Goal",
+    "menuItems": [
+        {
+            "name": "Project",
+            "route": "/Project"
+        },
+        {
+            "name": "Ticket",
+            "route": "/Ticket"
+        },
+        {
+            "name": "Task",
+            "route": "/Task"
+        },
+        {
+            "name": "Meeting",
+            "route": "/Meeting"
+        },
+        {
+            "name": "List",
+            "route": "/List"
+        },
+        {
+            "name": "Checklist",
+            "route": "/Checklist"
+        },
+        {
+            "name": "Note",
+            "route": "/Note"
+        },
+        {
+            "name" : "Event",
+            "route" : "/Event"
+        },
+        {
+            "name" : "Scheduler",
+            "route" : "/Scheduler"
+        },
+        {
+            "name" : "Kanban",
+            "route" : "/Kanban"
+        },
+        {
+            "name" : "Research",
+            "route" : "/Research"
+        },
+        {
+            "name" : "Flow",
+            "route" : "/Flow"
+        },
+        {
+            "name" : "Charts",
+            "menuItems" : [
+                {
+                    "name" : "Mindmap",
+                    "route": "/Mindmap"
+                },
+                {
+                    "name" : "Network",
+                    "route": "/Network"
+                },
+                {
+                    "name" : "Flow",
+                    "route": "/Flow"
+                },
+                {
+                    "name" : "Decision",
+                    "route": "/Decision"
+                },
+                {
+                    "name" : "Richtext",
+                    "route": "/Richtext"
+                },
+                {
+                    "name" : "Spreadsheet",
+                    "route": "/Spreadsheet"
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "Project",
+    "menuItems": [
+        {
+            "name": "Epic",
+            "route": "/Epic"
+        },
+        {
+            "name": "Sprint",
+            "route": "/Sprint"
+        },
+        {
+            "name": "Ticket",
+            "route": "/Ticket"
+        },
+        {
+            "name": "Task",
+            "route": "/Task"
+        },
+        {
+            "name": "Meeting",
+            "route": "/Meeting"
+        },
+        {
+            "name": "List",
+            "route": "/List"
+        },
+        {
+            "name": "Checklist",
+            "route": "/Checklist"
+        },
+        {
+            "name": "Note",
+            "route": "/Note"
+        },
+        {
+            "name" : "Event",
+            "route" : "/Event"
+        },
+        {
+            "name" : "Scheduler",
+            "route" : "/Scheduler"
+        },
+        {
+            "name" : "Kanban",
+            "route" : "/Kanban"
+        },
+        {
+            "name" : "Research",
+            "route" : "/Research"
+        },
+        {
+            "name" : "Flow",
+            "route" : "/Flow"
+        },
+        {
+            "name" : "Charts",
+            "menuItems" : [
+                {
+                    "name" : "Mindmap",
+                    "route": "/Mindmap"
+                },
+                {
+                    "name" : "Network",
+                    "route": "/Network"
+                },
+                {
+                    "name" : "Flow",
+                    "route": "/Flow"
+                },
+                {
+                    "name" : "Decision",
+                    "route": "/Decision"
+                },
+                {
+                    "name" : "Richtext",
+                    "route": "/Richtext"
+                },
+                {
+                    "name" : "Spreadsheet",
+                    "route": "/Spreadsheet"
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "Epic",
+    "menuItems": [
+        {
+            "name": "Sprint",
+            "route": "/Sprint"
+        },
+        {
+            "name": "Ticket",
+            "route": "/Ticket"
+        },
+        {
+            "name": "Task",
+            "route": "/Task"
+        },
+        {
+            "name": "Meeting",
+            "route": "/Meeting"
+        },
+        {
+            "name": "List",
+            "route": "/List"
+        },
+        {
+            "name": "Checklist",
+            "route": "/Checklist"
+        },
+        {
+            "name": "Note",
+            "route": "/Note"
+        },
+        {
+            "name" : "Event",
+            "route" : "/Event"
+        },
+        {
+            "name" : "Scheduler",
+            "route" : "/Scheduler"
+        },
+        {
+            "name" : "Kanban",
+            "route" : "/Kanban"
+        },
+        {
+            "name" : "Research",
+            "route" : "/Research"
+        },
+        {
+            "name" : "Flow",
+            "route" : "/Flow"
+        },
+        {
+            "name" : "Charts",
+            "menuItems" : [
+                {
+                    "name" : "Mindmap",
+                    "route": "/Mindmap"
+                },
+                {
+                    "name" : "Network",
+                    "route": "/Network"
+                },
+                {
+                    "name" : "Flow",
+                    "route": "/Flow"
+                },
+                {
+                    "name" : "Decision",
+                    "route": "/Decision"
+                },
+                {
+                    "name" : "Richtext",
+                    "route": "/Richtext"
+                },
+                {
+                    "name" : "Spreadsheet",
+                    "route": "/Spreadsheet"
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "Sprint",
+    "menuItems": [
+        {
+            "name": "Area",
+            "route": "/Area"
+        },
+        {
+            "name": "Ticket",
+            "route": "/Ticket"
+        },
+        {
+            "name": "Task",
+            "route": "/Task"
+        },
+        {
+            "name": "Meeting",
+            "route": "/Meeting"
+        },
+        {
+            "name": "List",
+            "route": "/List"
+        },
+        {
+            "name": "Checklist",
+            "route": "/Checklist"
+        },
+        {
+            "name": "Note",
+            "route": "/Note"
+        },
+        {
+            "name" : "Event",
+            "route" : "/Event"
+        },
+        {
+            "name" : "Scheduler",
+            "route" : "/Scheduler"
+        },
+        {
+            "name" : "Kanban",
+            "route" : "/Kanban"
+        },
+        {
+            "name" : "Research",
+            "route" : "/Research"
+        },
+        {
+            "name" : "Flow",
+            "route" : "/Flow"
+        },
+        {
+            "name" : "Charts",
+            "menuItems" : [
+                {
+                    "name" : "Mindmap",
+                    "route": "/Mindmap"
+                },
+                {
+                    "name" : "Network",
+                    "route": "/Network"
+                },
+                {
+                    "name" : "Flow",
+                    "route": "/Flow"
+                },
+                {
+                    "name" : "Decision",
+                    "route": "/Decision"
+                },
+                {
+                    "name" : "Richtext",
+                    "route": "/Richtext"
+                },
+                {
+                    "name" : "Spreadsheet",
+                    "route": "/Spreadsheet"
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "Area",
+    "menuItems": [
+        {
+            "name": "Ticket",
+            "route": "/Ticket"
+        },
+        {
+            "name": "Task",
+            "route": "/Task"
+        },
+        {
+            "name": "Meeting",
+            "route": "/Meeting"
+        },
+        {
+            "name": "List",
+            "route": "/List"
+        },
+        {
+            "name": "Checklist",
+            "route": "/Checklist"
+        },
+        {
+            "name": "Note",
+            "route": "/Note"
+        },
+        {
+            "name" : "Event",
+            "route" : "/Event"
+        },
+        {
+            "name" : "Scheduler",
+            "route" : "/Scheduler"
+        },
+        {
+            "name" : "Kanban",
+            "route" : "/Kanban"
+        },
+        {
+            "name" : "Research",
+            "route" : "/Research"
+        },
+        {
+            "name" : "Flow",
+            "route" : "/Flow"
+        },
+        {
+            "name" : "Charts",
+            "menuItems" : [
+                {
+                    "name" : "Mindmap",
+                    "route": "/Mindmap"
+                },
+                {
+                    "name" : "Network",
+                    "route": "/Network"
+                },
+                {
+                    "name" : "Flow",
+                    "route": "/Flow"
+                },
+                {
+                    "name" : "Decision",
+                    "route": "/Decision"
+                },
+                {
+                    "name" : "Richtext",
+                    "route": "/Richtext"
+                },
+                {
+                    "name" : "Spreadsheet",
+                    "route": "/Spreadsheet"
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "Program",
+    "menuItems": [
+        {
+            "name": "Ticket",
+            "route": "/Ticket"
+        },
+        {
+            "name": "Task",
+            "route": "/Task"
+        },
+        {
+            "name": "Meeting",
+            "route": "/Meeting"
+        },
+        {
+            "name": "List",
+            "route": "/List"
+        },
+        {
+            "name": "Checklist",
+            "route": "/Checklist"
+        },
+        {
+            "name": "Note",
+            "route": "/Note"
+        },
+        {
+            "name" : "Event",
+            "route" : "/Event"
+        },
+        {
+            "name" : "Scheduler",
+            "route" : "/Scheduler"
+        },
+        {
+            "name" : "Kanban",
+            "route" : "/Kanban"
+        },
+        {
+            "name" : "Research",
+            "route" : "/Research"
+        },
+        {
+            "name" : "Flow",
+            "route" : "/Flow"
+        },
+        {
+            "name" : "Charts",
+            "menuItems" : [
+                {
+                    "name" : "Mindmap",
+                    "route": "/Mindmap"
+                },
+                {
+                    "name" : "Network",
+                    "route": "/Network"
+                },
+                {
+                    "name" : "Flow",
+                    "route": "/Flow"
+                },
+                {
+                    "name" : "Decision",
+                    "route": "/Decision"
+                },
+                {
+                    "name" : "Richtext",
+                    "route": "/Richtext"
+                },
+                {
+                    "name" : "Spreadsheet",
+                    "route": "/Spreadsheet"
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "Task",
+    "menuItems": [
+        {
+            "name": "Ticket",
+            "route": "/Ticket"
+        },
+        {
+            "name": "Task",
+            "route": "/Task"
+        },
+        {
+            "name": "Meeting",
+            "route": "/Meeting"
+        },
+        {
+            "name": "List",
+            "route": "/List"
+        },
+        {
+            "name": "Checklist",
+            "route": "/Checklist"
+        },
+        {
+            "name": "Note",
+            "route": "/Note"
+        },
+        {
+            "name" : "Event",
+            "route" : "/Event"
+        },
+        {
+            "name" : "Scheduler",
+            "route" : "/Scheduler"
+        },
+        {
+            "name" : "Kanban",
+            "route" : "/Kanban"
+        },
+        {
+            "name" : "Research",
+            "route" : "/Research"
+        },
+        {
+            "name" : "Flow",
+            "route" : "/Flow"
+        },
+        {
+            "name" : "Charts",
+            "menuItems" : [
+                {
+                    "name" : "Mindmap",
+                    "route": "/Mindmap"
+                },
+                {
+                    "name" : "Network",
+                    "route": "/Network"
+                },
+                {
+                    "name" : "Flow",
+                    "route": "/Flow"
+                },
+                {
+                    "name" : "Decision",
+                    "route": "/Decision"
+                },
+                {
+                    "name" : "Richtext",
+                    "route": "/Richtext"
+                },
+                {
+                    "name" : "Spreadsheet",
+                    "route": "/Spreadsheet"
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "Meeting",
+    "menuItems": [
+        {
+            "name": "Agenda",
+            "route": "/Agenda"
+        },
+        {
+            "name": "Task",
+            "route": "/Task"
+        },
+        {
+            "name": "Meeting",
+            "route": "/Meeting"
+        },
+        {
+            "name": "List",
+            "route": "/List"
+        },
+        {
+            "name": "Checklist",
+            "route": "/Checklist"
+        },
+        {
+            "name": "Note",
+            "route": "/Note"
+        },
+        {
+            "name" : "Event",
+            "route" : "/Event"
+        },
+        {
+            "name" : "Scheduler",
+            "route" : "/Scheduler"
+        },
+        {
+            "name" : "Kanban",
+            "route" : "/Kanban"
+        },
+        {
+            "name" : "Research",
+            "route" : "/Research"
+        },
+        {
+            "name" : "Flow",
+            "route" : "/Flow"
+        },
+        {
+            "name" : "Charts",
+            "menuItems" : [
+                {
+                    "name" : "Mindmap",
+                    "route": "/Mindmap"
+                },
+                {
+                    "name" : "Network",
+                    "route": "/Network"
+                },
+                {
+                    "name" : "Flow",
+                    "route": "/Flow"
+                },
+                {
+                    "name" : "Decision",
+                    "route": "/Decision"
+                },
+                {
+                    "name" : "Richtext",
+                    "route": "/Richtext"
+                },
+                {
+                    "name" : "Spreadsheet",
+                    "route": "/Spreadsheet"
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "List",
+    "menuItems": [
+        {
+            "name": "List",
+            "route": "/List"
+        },
+        {
+            "name": "Checklist",
+            "route": "/Checklist"
+        },
+        {
+            "name": "Task",
+            "route": "/Task"
+        },
+        {
+            "name": "Note",
+            "route": "/Note"
+        },
+        {
+            "name" : "Event",
+            "route" : "/Event"
+        },
+        {
+            "name" : "Scheduler",
+            "route" : "/Scheduler"
+        },
+        {
+            "name" : "Research",
+            "route" : "/Research"
+        },
+        {
+            "name" : "Charts",
+            "menuItems" : [
+                {
+                    "name" : "Mindmap",
+                    "route": "/Mindmap"
+                },
+                {
+                    "name" : "Network",
+                    "route": "/Network"
+                },
+                {
+                    "name" : "Flow",
+                    "route": "/Flow"
+                },
+                {
+                    "name" : "Decision",
+                    "route": "/Decision"
+                },
+                {
+                    "name" : "Richtext",
+                    "route": "/Richtext"
+                },
+                {
+                    "name" : "Spreadsheet",
+                    "route": "/Spreadsheet"
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "Note",
+    "menuItems": [
+        {
+            "name": "List",
+            "route": "/List"
+        },
+        {
+            "name": "Checklist",
+            "route": "/Checklist"
+        },
+        {
+            "name": "Task",
+            "route": "/Task"
+        },
+        {
+            "name": "Note",
+            "route": "/Note"
+        },
+        {
+            "name" : "Scheduler",
+            "route" : "/Scheduler"
+        },
+        {
+            "name" : "Research",
+            "route" : "/Research"
+        },
+        {
+            "name" : "Charts",
+            "menuItems" : [
+                {
+                    "name" : "Mindmap",
+                    "route": "/Mindmap"
+                },
+                {
+                    "name" : "Network",
+                    "route": "/Network"
+                },
+                {
+                    "name" : "Flow",
+                    "route": "/Flow"
+                },
+                {
+                    "name" : "Decision",
+                    "route": "/Decision"
+                },
+                {
+                    "name" : "Richtext",
+                    "route": "/Richtext"
+                },
+                {
+                    "name" : "Spreadsheet",
+                    "route": "/Spreadsheet"
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "Research",
+    "menuItems": [
+        {
+            "name": "Research",
+            "route": "/Research"
+        },
+        {
+            "name": "List",
+            "route": "/List"
+        },
+        {
+            "name": "Checklist",
+            "route": "/Checklist"
+        },
+        {
+            "name": "Task",
+            "route": "/Task"
+        },
+        {
+            "name": "Note",
+            "route": "/Note"
+        },
+        {
+            "name" : "Event",
+            "route" : "/Event"
+        },
+        {
+            "name" : "Scheduler",
+            "route" : "/Scheduler"
+        },
+        {
+            "name" : "Charts",
+            "menuItems" : [
+                {
+                    "name" : "Mindmap",
+                    "route": "/Mindmap"
+                },
+                {
+                    "name" : "Network",
+                    "route": "/Network"
+                },
+                {
+                    "name" : "Flow",
+                    "route": "/Flow"
+                },
+                {
+                    "name" : "Decision",
+                    "route": "/Decision"
+                },
+                {
+                    "name" : "Richtext",
+                    "route": "/Richtext"
+                },
+                {
+                    "name" : "Spreadsheet",
+                    "route": "/Spreadsheet"
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "Agenda",
+    "menuItems":[
+        {
+            "name": "Agenda Minute",
+            "menuItems": {
+                "name": "Richtext",
+                "route": "/Richtext"
+            }
+        },
+        {
+            "name": "Task",
+            "route":"/Task"
+        },
+        {
+            "name": "Scheduler",
+            "route":"/Scheduler"
+        }
+    ]
+},
+{
+    "name": "Event",
+    "menuItems": [
+        {
+            "name": "Task",
+            "route": "/Task"
+        },
+        {
+            "name": "Meeting List",
+            "route": "/List"
+        },
+        {
+            "name": "Checklist",
+            "route": "/Checklist"
+        },
+        {
+            "name": "Note",
+            "route": "/Note"
+        },
+        {
+            "name" : "Scheduler",
+            "route" : "/Scheduler"
+        },
+        {
+            "name" : "Kanban",
+            "route" : "/Kanban"
+        },
+        {
+            "name" : "Research",
+            "route" : "/Research"
+        },
+        {
+            "name" : "Flow",
+            "route" : "/Flow"
+        },
+        {
+            "name" : "Charts",
+            "menuItems" : [
+                {
+                    "name" : "Mindmap",
+                    "route": "/Mindmap"
+                },
+                {
+                    "name" : "Network",
+                    "route": "/Network"
+                },
+                {
+                    "name" : "Flow",
+                    "route": "/Flow"
+                },
+                {
+                    "name" : "Decision",
+                    "route": "/Decision"
+                },
+                {
+                    "name" : "Richtext",
+                    "route": "/Richtext"
+                },
+                {
+                    "name" : "Spreadsheet",
+                    "route": "/Spreadsheet"
+                }
+            ]
+        }
+    ]
+}
+]
